@@ -6,4 +6,4 @@ Infosys Internship batch 3 assignments <br>
      - scrapes [ Name , rating , year , duration ] <br>
 
 3. Module 1 Project - Webscraping using chatbot
-     - Movie chatbot that scrapes details accouring to movie name give by user.
+     - Movie chatbot that scrapes details according to movie name give by user.
