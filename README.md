@@ -1,4 +1,6 @@
 # Infosys-Assignments
 Infosys Internship batch 3 assignments <br>
 1. Customized Chatbot (  AI girlfriend ) <br>
-2. 
+2. Web Scraping using Selenium <br>
+     - Automation searches for movie -
+     - scrapes [ Name , rating , year , duration ]
