@@ -17,3 +17,5 @@ env/
 
 # Chrome driver
 chromedriver 
+
+flask_session
